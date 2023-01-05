@@ -13,7 +13,7 @@ public class Bullet_Creat : MonoBehaviour
     [SerializeField] GameObject Bullet_Obj;
     [SerializeField] float speed = 1f;
 
-    [Header("총알?�치")]
+    [Header("Bullet_Pos")]
     [SerializeField] Transform StartBullet_Pos1;
     [SerializeField] Transform StartBullet_Pos2;
     [SerializeField] Transform StartBullet_Pos3;
