@@ -8,6 +8,8 @@ public class Bullet_Creat : MonoBehaviour
 
     public int Lv = 1;
 
+    //¾È³ç
+
     [SerializeField] GameObject Bullet_Obj;
     [SerializeField] Transform StartBullet_Pos;
     [SerializeField] float speed = 1f;

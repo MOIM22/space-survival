@@ -1093,7 +1093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4225e5928a519b34a84ea3e0d56004f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 1179229884}
+  Player: {fileID: 55259023222093851, guid: c1dbfcd731fa5d1408d8abcaa50a89f8, type: 3}
   Slot_Count: 8
   Slot_Interval: 2
   Change_Cam:
@@ -1444,7 +1444,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1489699271}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
